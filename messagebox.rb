@@ -3,6 +3,7 @@
 # Current source: https://github.com/rapid7/metasploit-framework
 ##
 
+#in develop
 module MetasploitModule
 
   CachedSize = 275
